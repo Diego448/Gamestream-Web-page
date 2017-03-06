@@ -1,0 +1,133 @@
+﻿body
+{
+    width: 70%;
+    margin: auto;
+}
+
+a
+{
+    width: 24%;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    height: 28px;
+    font-size: 14pt;
+    font-family: Arial;
+    text-decoration: none;
+    color: inherit;
+    margin-bottom: 60px;
+}
+
+p, a, h2
+{
+    font-family: Arial;   
+}
+
+span 
+{
+    vertical-align: middle;
+}
+
+#inicio 
+{
+    float: left;
+    width: 210px;
+}
+
+a #inicio 
+{
+    height: auto;
+}
+
+#menu1 
+{
+    border-bottom: 5px solid blue;
+}
+
+#menu2 
+{
+    border-bottom: 5px solid green;
+    margin-left: -5px;
+}
+
+#menu3 
+{
+    border-bottom: 5px solid red;
+    margin-left: -5px;
+}
+
+.enlace_contacto 
+{
+    width: 33%;
+    margin-bottom: 0;
+    font-size:medium;
+}
+
+.contenido_contacto 
+{
+    text-align: center;
+}
+
+img 
+{
+    width: 45%;
+}
+
+.pancarta 
+{
+    float: right;
+    width: 50%;
+    height: 215px;
+}
+
+.pancarta h2 
+{
+    margin-top: 60px;
+}
+
+.contenedor_pancarta 
+{
+    margin-top: 10px;
+    padding-top: 60px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 60px;
+    box-shadow: 3px 2px 2px Silver;
+}
+
+#control_pancarta 
+{
+    text-align: center;
+}
+
+#control_pancarta a
+{
+    width: 10px;
+    height: 10px;
+    background-color: Blue;
+    border-radius: 3px;
+    margin-bottom: 0;
+    margin-left: 2px;
+    margin-top: 15px;
+
+}
+
+#control_pancarta a:nth-child(2)
+{
+    background-color: Green;
+}
+#control_pancarta a:nth-child(3)
+{
+    background-color: Red;
+}
+
+.lista_juegos
+{
+    margin-top: 10px;
+    padding-top: 40px;
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-bottom: 40px;
+    border-top: 2px solid silver;
+    border-bottom: 2px solid silver;
+}
