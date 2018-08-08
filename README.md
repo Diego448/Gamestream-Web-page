@@ -1,2 +1,2 @@
 # Gamestream-Web-page
-Schoolar project web page
+Scholar project web page
